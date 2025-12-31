@@ -33,8 +33,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jara505&theme=dracula" />
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=jara505&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> -->
+  <img src="https://github-readme-streak-stats-ten-blush.vercel.app/?user=jara505&theme=dracula&hide_border=true&border_radius=5&date_format=j%2Fn[%2FY]" />
+  <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=jara505&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true%22%20alt=%22TROPHY%22%20width=%2284%%22" />
 </div>
 
 
