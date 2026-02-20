@@ -1,49 +1,44 @@
 <h1 align="center">Hey 👋 I'm Juan JC</h1>
 
-###
+<br clear="both"/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-  <img width="12" />
-  
+
+<img src="https://skillicons.dev/icons?i=ts,py,nestjs,react,django,postgres,docker,git,github,neovim,linux" height="55" alt="tech stack" />
 
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- 
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
- 
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jara505&theme=dracula" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/jara505?cardType=level&theme=dracula" alt="GitHub Stats"/>
+</td>
+<td>
+  <img height="240" width="410" align="center" src="https://github-readme-streak-stats-ten-blush.vercel.app/?user=jara505&theme=dracula&hide_border=true&border_radius=5&date_format=j%2Fn[%2FY]" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy-phi-jet.vercel.app/?username=jara505&theme=dracula&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" width="84%" />
+
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-ten-blush.vercel.app/?user=jara505&theme=dracula&hide_border=true&border_radius=5&date_format=j%2Fn[%2FY]" />
-  <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=jara505&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true%22%20alt=%22TROPHY%22%20width=%2284%%22" />
-</div>
-
-
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jara505/jara505/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jara505/jara505/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jara505/jara505/output/pacman-contribution-graph.svg">
 </picture>
-
-###
