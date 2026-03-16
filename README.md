@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋 I'm Juan JC</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img
+  alt="Typing SVG"
+  width="850"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2750&color=BD93F9&background=282A3600&center=true&vCenter=true&width=375&lines=Hello,+I'm+JuanJC"
+  />
+  </a>
+</div>
 
 <br clear="both"/>
 
