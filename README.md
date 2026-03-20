@@ -31,7 +31,8 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/jara505?cardType=level&theme=dracula" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jara505&theme=dracula&rank_icon=github&show=prs_merged,prs_merged_percentage&show_icons=true" alt="GitHub Stats"/>
+  
 </td>
 <td>
   <img height="240" width="410" align="center" src="https://github-readme-streak-stats-ten-blush.vercel.app/?user=jara505&theme=dracula&hide_border=true&border_radius=5&date_format=j%2Fn[%2FY]" />
