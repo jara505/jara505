@@ -54,3 +54,5 @@
 </picture>
 -->
 
+<img src="https://raw.githubusercontent.com/jara505/jara505/main/dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
+
